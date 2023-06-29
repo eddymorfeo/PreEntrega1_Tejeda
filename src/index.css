@@ -1,13 +1,53 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.contenedor{
+display: flex;
+justify-content: space-between;
+padding: 10px;
+background-color: rgb(59, 34, 80);
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.titulo{
+    font-style: italic;
+    text-transform: uppercase;
+    font-size: 40px;
+    color: #fff;
+}
+
+.nav{
+    display: flex;
+    justify-content: end;
+    gap: 10px;
+    padding: 10px;
+}
+
+.nav a{
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.icon-carrito{
+    height: 28px;
+}
+
+.cart{
+    display: flex;
+    gap: 4px;    
+}
+
+.contadorCarrito{
+    color: #fff;
+    font-size: 20px;
+}
+
+.itemListContainer{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.itemListContainer_Titulo{
+    font-size: 50px;
+    color: rgb(59, 34, 80);
+    text-transform: uppercase;
 }
