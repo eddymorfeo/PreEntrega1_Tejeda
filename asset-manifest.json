@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/github.io/PreEntrega1_Tejeda/static/css/main.98b221b7.css",
-    "main.js": "/github.io/PreEntrega1_Tejeda/static/js/main.ccbd996b.js",
-    "static/media/carrito.ico": "/github.io/PreEntrega1_Tejeda/static/media/carrito.de38bd97af6bc7d27f36.ico",
-    "index.html": "/github.io/PreEntrega1_Tejeda/index.html",
-    "main.98b221b7.css.map": "/github.io/PreEntrega1_Tejeda/static/css/main.98b221b7.css.map",
-    "main.ccbd996b.js.map": "/github.io/PreEntrega1_Tejeda/static/js/main.ccbd996b.js.map"
+    "main.css": "/PreEntrega1_Tejeda/static/css/main.98b221b7.css",
+    "main.js": "/PreEntrega1_Tejeda/static/js/main.51c3dce0.js",
+    "static/media/carrito.ico": "/PreEntrega1_Tejeda/static/media/carrito.de38bd97af6bc7d27f36.ico",
+    "index.html": "/PreEntrega1_Tejeda/index.html",
+    "main.98b221b7.css.map": "/PreEntrega1_Tejeda/static/css/main.98b221b7.css.map",
+    "main.51c3dce0.js.map": "/PreEntrega1_Tejeda/static/js/main.51c3dce0.js.map"
   },
   "entrypoints": [
     "static/css/main.98b221b7.css",
-    "static/js/main.ccbd996b.js"
+    "static/js/main.51c3dce0.js"
   ]
 }
