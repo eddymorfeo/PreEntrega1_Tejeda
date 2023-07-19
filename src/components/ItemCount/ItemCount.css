@@ -1,0 +1,11 @@
+.Counter{
+    display: grid;    
+    justify-content: center;
+    padding: 10px;
+}
+
+.Controls{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}

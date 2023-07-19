@@ -1,0 +1,11 @@
+.CardItem{
+    text-align: center;
+    padding: 30px;
+    margin: 10px;
+    max-width: 300px;
+    border: solid;
+}
+
+.ItemImg{
+    max-width: 100%;
+}
